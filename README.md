@@ -1,4 +1,5 @@
-<h1 align="center"> Register Form  </h1>
+
+<h1 align="center"> Nutrition Label  </h1>
 
 ## Getting Started
 
@@ -9,23 +10,32 @@
 - Code Editor (like Visula Studio Code/ notepad)
 
 ## Application shots
-![image1](https://github.com/pavithra-deepika/register-form/blob/master/image/image%201.png)
-![image2](https://github.com/pavithra-deepika/register-form/blob/master/image/image%202.png)
+
+![image1](https://github.com/pavithra-deepika/nutrition-label/blob/master/image/image1.png)
 
 
 ## Learnt
- - The fieldset tag is used to group related elements in a form and draws a box around the related elements
-- The textarea tag defines a multi-line text input control.The textarea element is often used in a form, to collect user inputs like comments or reviews.
-- <bold>CSS property </bold>
-    - border: 0 = border removed.
-    - margin : 0 auto = four side attanged in equall.
-    - "length" values, such as width, margin, padding, font-size, etc.
-    - Length is a number followed by a length unit, such as 10px, 2em, etc.
-- password field set to attribute pattern 
-    ex( pattern=[a-z0-5]{8,})
+ - The CSS box-sizing property allows us to include the padding and border in an element's total width and height. box-sizing: border-box
+ - The flex container becomes flexible by setting the display property to flex.
+ - <strong>flex-direction</strong>
+ - The flex-direction property defines in which direction the container wants to stack the flex items.
+ - <strong>justify-content</strong>
+       - The center value aligns the flex items at the center of the container.
+ -  <strong>align-items</strong>
+      - the align-items property is used to align the flex items.Vertically aligns the flex items when the items do not use all available space on the cross-axis<br />
+      - The flex-end value aligns the flex items at the bottom of the container<br /> 
+- The align-content property is used to align the flex lines.Modifies the behavior of the flex-wrap property. It is similar to align-items, but instead of aligning flex items, it aligns flex lines.<br />
+     - <strong> center : </strong>The center value displays the flex lines in the middle of the container.<br />
+
+
+
+
+
+
+
 
 ## Deploy on Vercel
-https://vercel.com/pavithra-deepika/register-form
+https://nutrition-label-pi.vercel.app/
 ## Built by
 
 👤 **Bavithra**
